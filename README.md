@@ -1,2 +1,1 @@
-# fisrtpro
-just trying to build a project
+# Hands on python for data science
